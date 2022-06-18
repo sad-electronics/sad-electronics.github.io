@@ -1101,3 +1101,7 @@ pre {
     display: inline-block;
   }
 }
+
+pre {
+    color: #888888;
+}
