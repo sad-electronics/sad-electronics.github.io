@@ -44,7 +44,7 @@ social-network-links:
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: 
- mastodon: fosstodon.org/web/@sad_electronics
+  mastodon: fosstodon.org/web/@sad_electronics
 #  discord: invite/invite_code or users/userid 
 
 # If you want your website to generate an RSS feed, provide a description
