@@ -7,8 +7,7 @@ comments: false
 ---
 
 In this blog post we will discuss how to migrate from the CP210x family of USB serial bridge to the CH9102. 
-WCH offers two versions of the CH9102, the CH9102X which has a fixed IO voltage of 3.3V and the CH9102F which has a adjustable IO voltage from 1.8V-5V.
-
+WCH offers two versions of the CH9102, the CH9102X and the CH9102F, the table below shows which version is the counterpart to the CP201x family. 
 
 | Silicon Labs  | WCH  | 
 | :------ |:--- | 
@@ -18,3 +17,5 @@ WCH offers two versions of the CH9102, the CH9102X which has a fixed IO voltage 
 | CP2109 | CH9102X | 
 | CP2104 | CH9102F |
 | CP2102N-GQN24 | CH9102F |
+
+
