@@ -35,9 +35,10 @@ For my designs I wanted a smaller buck converter with a higher switching speed w
 | MaxLinear | XRP7664  |
 | MaxLinear | XRP7665  |
 | Texas Instruments | TPS54336A  |
+| Joulwatt | JW5025  |
 
 
-
+JW5025
 
 
 
