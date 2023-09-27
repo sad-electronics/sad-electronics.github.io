@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Sad Electronics
+title: Cutie-PHY
 
 # Your name to show in the footer
-author: A13
+author: Cutie
 
 # --- List of links in the navigation bar --- #
 
@@ -17,8 +17,8 @@ navbar-links:
  # Resources:
  #   - Learn markdown: "https://www.markdowntutorial.com/"
   Github: "https://github.com/sad-electronics"
-  Twitter: "https://twitter.com/sad_electronics"
-  "Donate ❤": "https://ko-fi.com/sad_electronics" 
+  Mastodon: "https://fosstodon.org/@sad_electronics"
+  
 
 # --- Logo --- #
 
@@ -41,7 +41,6 @@ round-avatar: true
 social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: sad-electronics
-  twitter: "@sad_electronics"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: 
@@ -56,14 +55,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Sad Electronics"
+url-pretty: "Cutie-PHY"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
